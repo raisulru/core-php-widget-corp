@@ -1,0 +1,15 @@
+.selected{
+	font-weight: bold;
+	text-transform: capitalize;
+	font-size: 16px;
+}
+ul{
+	font-weight: normal;
+}
+.navbar{
+	background-color: #ccc;
+}
+footer{
+	background-color: #ccc;
+	margin-top: 1%;
+}
